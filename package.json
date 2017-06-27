@@ -1,0 +1,18 @@
+{
+  "name": "dht-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "lodash": "^4.13.1",
+    "microgear" : "*"
+  },
+  "description": "DHT data API by node.js+microgear for Grafana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "author": "bonus",
+  "license": "ISC"
+}
