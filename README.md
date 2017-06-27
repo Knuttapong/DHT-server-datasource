@@ -2,7 +2,7 @@
 
 ```
 install: npm install 
-run: npm run
+run: npm start
 ```
 
 
